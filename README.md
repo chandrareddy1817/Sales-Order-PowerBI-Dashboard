@@ -1,61 +1,100 @@
+# 📊 Sales Order Performance Analysis
 
-## 🔍 Key Insights
-
-### 📆 Monthly Revenue Cycle
-- Revenue remains stable around **$26.5M** across 2014–2017.
-- Sharpest drop (~**$21.2M**) in **early 2017** indicates a potential disruption or business anomaly.
-- No strong seasonal spikes, suggesting **non-seasonal revenue flow**.
-
-### 📦 Channel Mix
-- **Wholesale** dominates: **54%** of revenue.
-- **Distributors**: 31% | **Exports**: 15%
-- **Opportunity:** Scale international presence through exports.
-
-### 🏆 Top Products (by Revenue)
-- **Product 26**: ~$110M
-- **Product 13**: ~$68M–75M
-- Bottom performers: ~$52M–57M range
-- Concentrated revenue contribution from top SKUs.
-
-### 💰 Profit Margins
-- Margins vary from **~18% to ~60%**
-- No strong correlation to unit price
-- Horizontal bands in scatterplots suggest **standardized pricing tiers**.
-
-### 🗓️ Seasonal Volume
-- No strong monthly trends, but slight **May–June uptick** in volume.
-- Volume dip in **early 2017 (~$21.2M)** requires investigation (e.g., supply chain issue or market shift).
-
-### 🌎 Regional Performance
-- **California** leads with:
-  - ~$230M in revenue
-  - **7500+ orders**
-- Other top states:
-  - **Illinois, Florida, Texas**: ~$85M–110M revenue & 3500–4500 orders
-  - **New York, Indiana**: ~$54M & 2000+ orders
+## 📌 Project Overview
+The **Sales Order Performance Analysis** project focuses on analyzing large-scale sales order data to understand **revenue trends, profitability, and customer behavior**.  
+The goal of this project is to transform raw sales data into **actionable business insights** using **Python, Excel, and Power BI**.
 
 ---
 
-## 📊 Power BI Dashboard
-
-The dashboard will provide:
-
-- Dynamic KPIs for revenue, profit, and order volume
-- Filters by year, region, product, and channel
-- Time-series visualizations for monthly revenue and margins
-- Geographic sales heatmaps and customer distribution
+## 🎯 Project Objectives
+- Analyze overall sales performance and order trends  
+- Identify high-revenue and high-profit products  
+- Track key business KPIs such as revenue, profit margin, and order volume  
+- Understand seasonal sales patterns and customer behavior  
 
 ---
 
-## 📌 Conclusion
-
-The data reveals valuable insights into Acme Co.'s operational strengths, market dynamics, and pricing strategies. These findings enable:
-
-- Data-backed **pricing and promotional decisions**
-- Identification of **regional growth opportunities**
-- Enhanced **risk mitigation** through outlier detection
-
-The accompanying Power BI dashboard will turn these insights into an interactive decision-making tool for stakeholders.
+## 📊 Dataset Overview
+- **Total Orders:** 64K+  
+- **Total Revenue:** $1.2B  
+- **Total Profit:** $461.8M  
+- **Data Type:** Sales transactions including product, customer, region, and time details  
 
 ---
 
+## 🛠️ Tech Stack
+
+### Programming & Libraries
+- **Python**
+- Pandas, NumPy, Matplotlib
+
+### Data Analysis
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Descriptive Statistics  
+- Trend & KPI Analysis  
+
+### Visualization & BI
+- **Power BI**
+- **Microsoft Excel**
+- **DAX**
+
+### Tools
+- Jupyter Notebook  
+- Google Colab  
+
+---
+
+## ⚙️ Project Workflow
+1. **Data Collection & Understanding**  
+   - Imported raw sales data and reviewed schema and data quality  
+
+2. **Data Cleaning & Transformation**  
+   - Handled missing values and inconsistencies using Python  
+   - Standardized columns and data formats  
+
+3. **Exploratory Data Analysis (EDA)**  
+   - Analyzed revenue, profit, and order trends  
+   - Identified seasonal patterns and top-performing products  
+
+4. **KPI Development**  
+   - Total Revenue  
+   - Total Profit  
+   - Profit Margin  
+   - Order Count  
+
+5. **Dashboard Development**  
+   - Built interactive Power BI dashboards with slicers and filters  
+   - Enabled dynamic analysis by time, product category, and region  
+
+---
+
+## 📈 Key Insights
+- Identified products and categories contributing the highest profit margins  
+- Discovered peak sales periods and seasonal trends  
+- Analyzed customer purchase behavior and order frequency  
+
+---
+
+## 💼 Business Value
+- Helps stakeholders monitor sales performance in real time  
+- Supports data-driven decision-making for pricing and inventory planning  
+- Enables quick identification of growth opportunities and profit drivers  
+
+---
+
+## 🚀 How to Use This Project
+1. Review the Python notebooks for data cleaning and EDA  
+2. Explore the Power BI dashboard for interactive insights  
+3. Use KPIs and trends for business performance evaluation  
+
+---
+
+## 📬 Contact
+**Yaraveda Chandrasekhar Reddy**  
+📧 Email: chandrasekharreddyyaraveda@gmail.com  
+💼 LinkedIn | 💻 GitHub  
+
+---
+
+⭐ *If you find this project useful, feel free to star the re*
