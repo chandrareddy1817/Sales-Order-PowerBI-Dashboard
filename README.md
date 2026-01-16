@@ -93,7 +93,7 @@ The goal of this project is to transform raw sales data into **actionable busine
 ## 📬 Contact
 **Yaraveda Chandrasekhar Reddy**  
 📧 Email: chandrasekharreddyyaraveda@gmail.com  
-💼 LinkedIn | 💻 GitHub  
+
 
 ---
 
